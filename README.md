@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hassankhan1347
-- 👀 I’m interested in Python, DataScience, Machine Learning, Deep Learning, Artificial Intelligence
-- 🌱 I’m currently learning data Science
+- 👀 I’m interested in Python, DataScience, Machine Learning, Deep Learning, Artificial Intelligence, Open CV, SQL, Data Engineering
+- 🌱 I’m currently working as a Data Engineer at SMB Services
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
